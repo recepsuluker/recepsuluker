@@ -7,7 +7,7 @@ I'm a Software Engineer with a strong background in **Aerospace Engineering** an
 📍 **Location:** Alexandria, VA  
 📧 **Email:** recepsuluker@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/recepsuluker](https://linkedin.com/in/recepsuluker)  
-🌐 **Website:** [aysegulsarisuluker.com](https://aysegulsarisuluker.com)
+
 
 ---
 
