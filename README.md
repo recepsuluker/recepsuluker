@@ -129,7 +129,6 @@ Istanbul Okan University, Turkey (Oct 2017)
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://linkedin.com/in/recepsuluker)
-- 🌐 [Personal Website](https://aysegulsarisuluker.com)
 - 📧 recepsuluker@gmail.com
 - 📞 (551) 966-5453
 
