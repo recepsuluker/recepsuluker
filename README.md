@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Cloud & DevOps Enthusiast | Space Technology Advocate
 
-I'm a Software Engineer with a strong background in **Aerospace Engineering** and hands-on experience in **IT support, cloud systems, and DevOps practices**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
+I'm a Software Engineer with a strong background in **Aerospace Engineer** and hands-on experience in **IT support, cloud systems, and DevOps practices**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
 
 📍 **Location:** Alexandria, VA  
 📧 **Email:** recepsuluker@gmail.com  
