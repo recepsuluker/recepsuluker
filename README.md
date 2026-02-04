@@ -1,6 +1,6 @@
 # Hi there, I'm Recep Suluker 👋
 
-## 🚀 Software Engineer | Cloud & DevOps Enthusiast | Space Technology Advocate
+## 🚀 Network Engineer | Cloud & DevOps Enthusiast | Space Technology Advocate
 
 I'm a Software Engineer with a strong background in **Aerospace Engineer** and hands-on experience in **IT support, cloud systems, and DevOps practices**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
 
