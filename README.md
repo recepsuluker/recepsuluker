@@ -148,9 +148,17 @@ Istanbul Okan University, Turkey (Oct 2017)
 
 ## 📊 GitHub Stats
 
-![Recep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recepsuluker&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=recepsuluker&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=recepsuluker&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepsuluker&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=recepsuluker&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
