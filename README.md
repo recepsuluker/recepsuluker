@@ -1,8 +1,8 @@
 # Hi there, I'm Recep Suluker 👋
 
-## 🚀 Network Engineer | Cloud & DevOps Enthusiast | Space Technology Advocate
+## 🚀 Software Aerospace Engineer | AI & DevOps & Cloud Enthusiast
 
-I'm a Software Engineer with a strong background in **Aerospace Engineer** and hands-on experience in **IT support, cloud systems, and DevOps practices**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
+I'm a Software Engineer with a strong background in **Aerospace Engineering** and hands-on experience in **spacecraft simulation, GNC systems, GNSS/RTK, and DevOps/Cloud infrastructure**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
 
 📍 **Location:** Alexandria, VA  
 📧 **Email:** recepsuluker@gmail.com  
@@ -13,29 +13,44 @@ I'm a Software Engineer with a strong background in **Aerospace Engineer** and h
 
 ## 💼 Professional Experience
 
-### Network Engineer | Mahalle App LLC (Jul 2025 – Present)
-- Designed and operated cloud-based infrastructure supporting secure application and network connectivity
-- Configured and maintained DNS, domains, and network access controls across environments
-- Supported VPN connectivity and secure remote access for distributed systems
-- Performed network and system troubleshooting across Linux hosts and containerized services
-- Implemented monitoring and incident response workflows to ensure service availability
-- Documented infrastructure, network configurations, and operational procedures
+### Software Engineer | Mahalle App LLC (Jul 2024 – Present)
+- Developed full-stack architecture using Supabase, Edge Functions, and real-time database
+- Automated iOS and Android deployment pipelines via Fastlane, Median.co, and Xcode
+- Managed CI/CD workflows using GitHub Actions for build, test, and release automation
 
 ### IT & Cloud Support Specialist | Freelancer (Dec 2024 – Present)
-- Provided IT support for end users, including hardware/software troubleshooting and network issues
-- Managed IT assets, cloud resources, and user account provisioning
-- Configured email systems, DNS, domains, and hosting environments
-- Supported cloud-based systems with focus on reliability and security
+- Developed and deployed full back-end infrastructure including API setup, database logic, and cloud deployment
+- Provided IT support for small businesses including network optimization, VPN setup, and system troubleshooting
+- Configured self-hosted environments, web hosting, and managed domain, DNS, and email systems
 
-### Research Assistant | Julius Maximilians University of Würzburg (Feb 2024 – Jul 2024)
-- Deployed Linux-based systems (Raspberry Pi) for real-time GNSS data processing
-- Supported GNSS-based positioning and sensor integration systems
-- Documented system setup, testing procedures, and performance results
+### Robotics & Navigation Research Assistant | Julius Maximilians University of Würzburg (Feb 2024 – Jul 2024)
+- Developed a high-precision localization system for autonomous excavators, integrating GNSS and RTK data to achieve a 20% improvement in positioning accuracy
+- Engineered a real-time 6-DoF pose estimation framework using Raspberry Pi and ROS, ensuring robust system performance in field robotics environments
+- Optimized NMEA GGA message processing to enhance signal reliability and navigation data integrity
+
+### Mission Design Engineer | German Orbital Systems GmbH (Nov 2022 – Aug 2023)
+- Performed comprehensive orbit determination and trajectory analysis for the StarVIBE mission using AGI Systems Tool Kit (STK)
+- Enhanced satellite simulation fidelity by 85% during the early mission design phase, directly impacting mission feasibility assessments
+- Generated technical mission reports including Classical Orbital Elements (COEs), 2D/3D ground tracks, and complex trajectory visualizations for stakeholders
+
+### Spacecraft Simulation Engineer | Julius Maximilians University of Würzburg (Nov 2021 – Aug 2022)
+- Architected and implemented an Extended Kalman Filter (EKF) within the Basilisk astrodynamics framework, resulting in a 90% increase in simulation fidelity
+- Developed advanced sensor fusion algorithms (integrating sun sensors, gyroscopes, and magnetometers) for precise CubeSat attitude determination
+- Validated the "Innocube" satellite simulation environment through rigorous Software and Hardware-in-the-Loop testing
 
 ### Simulation Engineer | Hezarfen Space LTD (Jul 2020 – Dec 2021)
-- Supported engineering teams with simulation tools and system analysis
-- Maintained Linux-based simulation environments
-- Assisted with technical documentation and cross-team coordination
+- Led the preliminary design and flight dynamic simulations of launch vehicles using OpenRocket and SolidWorks, reducing overall design iteration time by 30%
+- Optimized engine efficiency and aerodynamic stability through iterative propulsion system modeling and launch trajectory analysis
+- Managed the end-to-end project lifecycle, from initial CAD conceptualization to finalized high-fidelity system models
+
+### Spare Parts and Service Engineer | Komatsu Türkiye Company (Apr 2018 – Sep 2018)
+- Negotiated with suppliers to resolve component issues and provided technical support for machinery and production systems
+- Produced comprehensive failure reports to document incidents and assist in the development of preventive measures
+
+### Robotics Engineer | RobotCraft International Academy (Jul 2017 – Oct 2017)
+- Designed mobile robot chassis using CAD and translated designs into physical components through 3D printing
+- Applied control theory by implementing PID controllers via Arduino and simulated robot behavior using the ROS platform
+- Developed state machines for real-world maze-solving scenarios to translate theoretical logic into autonomous outcomes
 
 ---
 
@@ -54,6 +69,12 @@ Istanbul Okan University, Turkey (Oct 2017)
 
 ## 🛠️ Technical Skills
 
+**Astrodynamics & GNC:**  
+Orbital Mechanics, Trajectory Optimization, Celestial Mechanics, Attitude Control Systems, Sensors, Control Algorithms, Autonomous Flight
+
+**GNSS & Launch Engineering:**  
+GPS/Galileo/Receiver Design, Signal Processing, Launch Vehicle Systems, Trajectory Analysis, System Design and Integration
+
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -63,26 +84,26 @@ Istanbul Okan University, Turkey (Oct 2017)
 **DevOps & Cloud:**  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **Systems & Tools:**  
+- OpenRocket, Basilisk Astrodynamics, STK (Systems Tool Kit), GMAT
 - GNSS/RTK Systems, ROS (Robot Operating System)
 - Software-Defined Radio (SDR), RF Engineering
-- Systemd, RBAC, Network Configuration
-- MS Office, STK (Systems Tool Kit)
+- Kali Linux, Ubuntu, Microsoft Office
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛰️ [OrbitGuard AI](https://github.com/recepsuluker/OrbitGuardAI)
+### 🛰️ [Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)
 **AI-Powered Satellite Monitoring Tool**
-- Open-source satellite conjunction analysis and orbit visualization platform
+- Open-source application for satellite conjunction analysis, ground station visibility prediction, and real-time orbit visualization
 - Real-time TLE data processing from space-track.org
-- Machine learning for predictive collision analysis
-- Built with Python and Streamlit
-- 🔗 [Live Demo](https://monitor.aysegulsarisuluker.com/)
+- Integrated machine learning algorithms for predictive collision analysis and automated alert generation
+- Built with Python and Streamlit, providing intuitive interface for satellite operators and space situational awareness analysts
 
 ### 🌐 [OrbitOps – NOAA Space Weather Ingestion](https://github.com/recepsuluker/orbitops-noaa)
 **Production-Style DevOps Project**
@@ -98,9 +119,9 @@ Istanbul Okan University, Turkey (Oct 2017)
 
 ### 📻 NOAA Satellite Signal Reception System
 **Custom RF System for Weather Satellite Imagery**
-- V-dipole antenna with LNA for NOAA polar-orbiting satellites
-- SDR-based signal processing for high-quality weather images
-- Practical RF engineering and digital signal processing
+- Designed and constructed custom V-dipole antenna system with Low-Noise Amplifier (LNA) for receiving high-resolution weather satellite imagery from NOAA polar-orbiting satellites
+- Processed raw satellite signals using SDR techniques and signal processing algorithms
+- Demonstrated practical application of RF engineering principles, antenna design, and digital signal processing
 
 ---
 
@@ -120,9 +141,9 @@ Istanbul Okan University, Turkey (Oct 2017)
 
 **National Point of Contact for Turkey** | Space Generation Advisory Council (SGAC)  
 *May 2021 – Aug 2024*
-- Official representative for Turkey, coordinating national space-related activities
+- Served as official representative and liaison for Turkey, coordinating national space-related activities
 - Facilitated communication between Turkish space community and international organizations
-- Organized outreach events and represented Turkish space interests at international forums
+- Organized outreach events and represented Turkish space interests at international forums and conferences
 
 ---
 
@@ -144,7 +165,7 @@ Istanbul Okan University, Turkey (Oct 2017)
 
 ⚡ **Fun Fact:** I built a custom antenna system to receive satellite images from space and processed them using SDR techniques!
 
-💬 **Ask me about:** DevOps, Cloud Systems, GNSS/RTK, Space Technology, or Linux Administration
+💬 **Ask me about:** Spacecraft Simulation, GNC Systems, GNSS/RTK, DevOps, Cloud Infrastructure, or Space Technology
 
 🔭 **Currently working on:** Production-grade DevOps projects and open-source space technology tools
 
