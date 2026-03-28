@@ -2,7 +2,7 @@
 
 ## 🚀 Software Aerospace Engineer | AI & DevOps & Cloud Enthusiast
 
-I'm a Software Engineer with a strong background in **Aerospace Engineering** and hands-on experience in **spacecraft simulation, GNC systems, GNSS/RTK, and DevOps/Cloud infrastructure**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
+I'm a Software Engineer with a strong background in **Aerospace Engineering** and hands-on experience in **spacecraft simulation, GNC systems, GNSS/RTK, AI integration (AI agentic), and DevOps/Cloud infrastructure**. I'm passionate about building reliable systems, automation, and contributing to open-source space technology.
 
 📍 **Location:** Alexandria, VA  
 📧 **Email:** recepsuluker@gmail.com  
