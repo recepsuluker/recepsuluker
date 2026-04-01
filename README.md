@@ -23,12 +23,12 @@ I'm a Software Engineer with a strong background in **Aerospace Engineering** an
 - Provided IT support for small businesses including network optimization, VPN setup, and system troubleshooting
 - Configured self-hosted environments, web hosting, and managed domain, DNS, and email systems
 
-### Robotics & Navigation Research Assistant | Julius Maximilians University of Würzburg (Feb 2024 – Jul 2024)
+### Robotics & Navigation Research Assistant(Academic Grant) | Julius Maximilians University of Würzburg (Feb 2024 – Jul 2024)
 - Developed a high-precision localization system for autonomous excavators, integrating GNSS and RTK data to achieve a 20% improvement in positioning accuracy
 - Engineered a real-time 6-DoF pose estimation framework using Raspberry Pi and ROS, ensuring robust system performance in field robotics environments
 - Optimized NMEA GGA message processing to enhance signal reliability and navigation data integrity
 
-### Mission Design Engineer | German Orbital Systems GmbH (Nov 2022 – Aug 2023)
+### Mission Design Engineer(Project-Based) | German Orbital Systems GmbH (Nov 2022 – Aug 2023)
 - Performed comprehensive orbit determination and trajectory analysis for the StarVIBE mission using AGI Systems Tool Kit (STK)
 - Enhanced satellite simulation fidelity by 85% during the early mission design phase, directly impacting mission feasibility assessments
 - Generated technical mission reports including Classical Orbital Elements (COEs), 2D/3D ground tracks, and complex trajectory visualizations for stakeholders
