@@ -39,6 +39,10 @@ SGP4 tracking of 8,000+ satellites, conjunction screening, ground-station pass p
 Position plus roll/pitch/yaw of an earth-moving machine from three RTK-GNSS receivers: RTKLIB on a Raspberry Pi, a ROS Noetic package and a Kabsch/SVD pose solver with outlier rejection. Built at the University of Würzburg.<br/>
 <sub>ROS · RTKLIB · u-blox ZED-F9P · Python</sub>
 
+**[attitude-ekf](https://github.com/recepsuluker/ExtendedKalmanFilter)** — spacecraft attitude estimation for Basilisk<br/>
+Multiplicative EKF fusing gyro, sun sensor and magnetometer, with a drop-in module for the Basilisk astrodynamics framework. Locks on from a 25° error in seconds and holds ~0.05° (sunlit) and ~0.1° (eclipse) over a full LEO orbit. 85 tests, including closed-loop Basilisk runs.<br/>
+<sub>Python · Basilisk · Kalman filtering · ADCS</sub>
+
 **[OrbitOps — NOAA Pipeline](https://github.com/recepsuluker/orbitops-noaa)** — satellite-data ingestion on edge hardware<br/>
 systemd-scheduled, containerized ingestion service for a Jetson Nano, with CI. It grew out of a home-built V-dipole antenna and SDR receiver that pulls weather images straight off NOAA satellites.<br/>
 <sub>Linux · Docker · GitHub Actions · SDR</sub>
