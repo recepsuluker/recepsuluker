@@ -31,13 +31,25 @@ with the verification discipline of spacecraft engineering.
 
 ### Selected work
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| **[Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)** | Space situational awareness platform. SGP4 tracking of 8,000+ satellites, pairwise conjunction screening, ground-station pass prediction and e-mail/Slack/Telegram alerts. Ships as a pip package with a web dashboard, REST/WebSocket API, Docker images and 89 tests in CI. | Python · FastAPI · Skyfield · Streamlit · Docker |
-| **[GNSS Excavator Localization](https://github.com/recepsuluker/gnss_excavator)** | 6-DoF pose (position plus roll/pitch/yaw) of an earth-moving machine from three RTK-GNSS receivers. RTKLIB on a Raspberry Pi, a ROS Noetic package, and a Kabsch/SVD pose solver with outlier rejection. Built during a research assistantship at the University of Würzburg. | ROS · RTKLIB · u-blox ZED-F9P · Python |
-| **[OrbitOps — NOAA Pipeline](https://github.com/recepsuluker/orbitops-noaa)** | Satellite-data ingestion service for edge hardware (Jetson Nano). systemd-scheduled, containerized, with CI. It grew out of a home-built V-dipole antenna and SDR receiver that pulls weather images straight off NOAA satellites. | Linux · Docker · GitHub Actions · SDR |
-| **[gncsim.com](https://gncsim.com)** | Training platform for guidance, navigation and control engineers. Engineers solve spacecraft anomaly scenarios in a 3D simulator, with Claude-powered mission analysis. | React · Three.js · FastAPI · Supabase · Claude API |
-| **[BastionQA](https://bastionqa.com)** | Multi-agent QA automation. An orchestrator coordinates specialized agents for functional, performance, security, API and UI testing. | Multi-agent orchestration · Playwright |
+**[Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)** — space situational awareness platform<br/>
+SGP4 tracking of 8,000+ satellites, conjunction screening, ground-station pass prediction and e-mail/Slack/Telegram alerts. Installs as a pip package with a web dashboard, REST/WebSocket API, Docker images and 89 tests in CI.<br/>
+<sub>Python · FastAPI · Skyfield · Streamlit · Docker</sub>
+
+**[GNSS Excavator Localization](https://github.com/recepsuluker/gnss_excavator)** — 6-DoF machine pose from multi-antenna RTK<br/>
+Position plus roll/pitch/yaw of an earth-moving machine from three RTK-GNSS receivers: RTKLIB on a Raspberry Pi, a ROS Noetic package and a Kabsch/SVD pose solver with outlier rejection. Built at the University of Würzburg.<br/>
+<sub>ROS · RTKLIB · u-blox ZED-F9P · Python</sub>
+
+**[OrbitOps — NOAA Pipeline](https://github.com/recepsuluker/orbitops-noaa)** — satellite-data ingestion on edge hardware<br/>
+systemd-scheduled, containerized ingestion service for a Jetson Nano, with CI. It grew out of a home-built V-dipole antenna and SDR receiver that pulls weather images straight off NOAA satellites.<br/>
+<sub>Linux · Docker · GitHub Actions · SDR</sub>
+
+**[gncsim.com](https://gncsim.com)** — training platform for GNC engineers<br/>
+Engineers solve spacecraft anomaly scenarios in a 3D simulator, with Claude-powered mission analysis.<br/>
+<sub>React · Three.js · FastAPI · Supabase · Claude API</sub>
+
+**[BastionQA](https://bastionqa.com)** — multi-agent QA automation<br/>
+An orchestrator coordinates specialized agents for functional, performance, security, API and UI testing.<br/>
+<sub>Multi-agent orchestration · Playwright</sub>
 
 ---
 
