@@ -23,7 +23,7 @@ with the verification discipline of spacecraft engineering.
 
 ### About
 
-- **Background.** Four years in spacecraft simulation, orbit and attitude determination, and GNSS navigation at German Orbital Systems, the University of Würzburg and Hezarfen Space.
+- **Background.** Four years in spacecraft simulation, orbit and attitude determination, and GNSS navigation at German Orbital Systems, the University of Würzburg.
 - **Now.** Founder of [AI Consult Pro](https://aiconsultpro.io). I design multi-agent systems, self-hosted LLM stacks and AI for restricted or air-gapped environments.
 - **How I work.** Verify before you deploy. I measure performance, design for predictable failure, and keep the tests in CI.
 
