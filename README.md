@@ -31,6 +31,10 @@ with the verification discipline of spacecraft engineering.
 
 ### Selected work
 
+**[basilisk-mcp](https://github.com/recepsuluker/basilisk-mcp)** — talk to Basilisk: an MCP server for AI-driven spacecraft simulation<br/>
+Lets Claude build, run and analyze real Basilisk simulations from plain language: orbit propagation with J2, reaction-wheel attitude control and gain tuning, with one-click 3-D playback in Vizard. Every run is a standalone Basilisk script, tests reproduce the official Basilisk examples, and simulations run in isolated, resource-limited workers. 101 tests in CI on Windows, macOS and Linux.<br/>
+<sub>Python · MCP · Basilisk · Vizard · Claude</sub>
+
 **[Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)** — space situational awareness platform<br/>
 SGP4 tracking of 8,000+ satellites, conjunction screening, ground-station pass prediction and e-mail/Slack/Telegram alerts. Installs as a pip package with a web dashboard, REST/WebSocket API, Docker images and 89 tests in CI.<br/>
 <sub>Python · FastAPI · Skyfield · Streamlit · Docker</sub>
