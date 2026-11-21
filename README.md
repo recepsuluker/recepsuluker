@@ -31,23 +31,23 @@ with the verification discipline of spacecraft engineering.
 
 ### Selected work
 
-**[basilisk-mcp](https://github.com/recepsuluker/basilisk-mcp)** — talk to Basilisk: an MCP server for AI-driven spacecraft simulation<br/>
+**[basilisk-mcp](https://github.com/recepsuluker/basilisk-mcp)** - talk to Basilisk: an MCP server for AI-driven spacecraft simulation<br/>
 Lets Claude build, run and analyze real Basilisk simulations from plain language: orbit propagation with J2, reaction-wheel attitude control and gain tuning, with one-click 3-D playback in Vizard. Every run is a standalone Basilisk script, tests reproduce the official Basilisk examples, and simulations run in isolated, resource-limited workers. 101 tests in CI on Windows, macOS and Linux.<br/>
 <sub>Python · MCP · Basilisk · Vizard · Claude</sub>
 
-**[Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)** — space situational awareness platform<br/>
+**[Satellite Orbit Tools](https://github.com/recepsuluker/satellite-orbit-tools)** - space situational awareness platform<br/>
 SGP4 tracking of 8,000+ satellites, conjunction screening, ground-station pass prediction and e-mail/Slack/Telegram alerts. Installs as a pip package with a web dashboard, REST/WebSocket API, Docker images and 89 tests in CI.<br/>
 <sub>Python · FastAPI · Skyfield · Streamlit · Docker</sub>
 
-**[GNSS Excavator Localization](https://github.com/recepsuluker/gnss_excavator)** — 6-DoF machine pose from multi-antenna RTK<br/>
+**[GNSS Excavator Localization](https://github.com/recepsuluker/gnss_excavator)** - 6-DoF machine pose from multi-antenna RTK<br/>
 Position plus roll/pitch/yaw of an earth-moving machine from three RTK-GNSS receivers: RTKLIB on a Raspberry Pi, a ROS Noetic package and a Kabsch/SVD pose solver with outlier rejection. Built at the University of Würzburg.<br/>
 <sub>ROS · RTKLIB · u-blox ZED-F9P · Python</sub>
 
-**[attitude-ekf](https://github.com/recepsuluker/ExtendedKalmanFilter)** — spacecraft attitude estimation for Basilisk<br/>
+**[attitude-ekf](https://github.com/recepsuluker/ExtendedKalmanFilter)** - spacecraft attitude estimation for Basilisk<br/>
 Multiplicative EKF fusing gyro, sun sensor and magnetometer, with a drop-in module for the Basilisk astrodynamics framework. Locks on from a 25° error in seconds and holds ~0.05° (sunlit) and ~0.1° (eclipse) over a full LEO orbit. 85 tests, including closed-loop Basilisk runs.<br/>
 <sub>Python · Basilisk · Kalman filtering · ADCS</sub>
 
-**[OrbitOps — NOAA Pipeline](https://github.com/recepsuluker/orbitops-noaa)** — satellite-data ingestion on edge hardware<br/>
+**[OrbitOps — NOAA Pipeline](https://github.com/recepsuluker/orbitops-noaa)** - satellite-data ingestion on edge hardware<br/>
 systemd-scheduled, containerized ingestion service for a Jetson Nano, with CI. It grew out of a home-built V-dipole antenna and SDR receiver that pulls weather images straight off NOAA satellites.<br/>
 <sub>Linux · Docker · GitHub Actions · SDR</sub>
 
